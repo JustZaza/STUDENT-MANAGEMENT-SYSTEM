@@ -1,0 +1,5 @@
+Alice, 78, PASS
+Bob, 55, PASS
+Charlie, 90, PASS
+Diana, 40, FAIL
+Class Average: 65.75%
